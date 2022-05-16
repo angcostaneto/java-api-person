@@ -1,8 +1,6 @@
 package com.angelo.apiwatercount.repositories;
 
 import com.angelo.apiwatercount.models.Person;
-import jdk.internal.org.jline.terminal.impl.PosixSysTerminal;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
